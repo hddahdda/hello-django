@@ -28,7 +28,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://hdda-django-todo-app.herokuapp.com/']
 
-
 # Application definition
 
 INSTALLED_APPS = [
